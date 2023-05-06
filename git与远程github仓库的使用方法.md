@@ -1,8 +1,7 @@
 # git与远程github仓库的使用方法
 
 ## 1、创建本地仓库添加任意文件
-
-![image-20230506110921700(C:\Users\qingwu_virtual\Desktop\learn-remote_git\image-20230506110921700.png)
+![image-20230506110921700](https://user-images.githubusercontent.com/63906638/236601844-db459cc0-4bdb-447e-85cb-781ba7b07185.png)
 
 ## 2、本地仓库常用命令（管理本地仓库）
 
